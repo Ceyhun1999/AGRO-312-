@@ -1,0 +1,1 @@
+{"zh":{"id":"2","name":"中国人","dir":"中国人","status":"1","code":"zh","icon":"/engine/skins/flags/ch.png"},"en":{"id":"3","name":"English","dir":"English","status":"1","code":"en","icon":"/engine/skins/flags/gb.png"},"kg":{"id":"4","name":"Кыргызча","dir":"Кыргызча","status":"1","code":"kg","icon":"/engine/skins/flags/kg.png"}}
